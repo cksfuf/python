@@ -21,3 +21,4 @@ jupyter lab 설치
 pip inst
 ```
 - python 패키지 관리를 위해 설치
+
